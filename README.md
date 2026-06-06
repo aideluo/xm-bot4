@@ -78,53 +78,31 @@ graph TD
 ## 📸 产品界面展示 (Screenshots)
 
 <div align="center">
-  <img src="./images/ScreenShot_2026-04-30_083611_469.png" width="800" alt="wx-bot4 Dashboard" />
+  <img src="./images/ScreenShot_2026-06-06_044159_574.png" width="800" alt="wx-bot4 Dashboard" />
 </div>
 
 <details open>
   <summary><b>✨ 点击查看系统全功能截图 (100% 真实系统演示)</b></summary>
   <br>
-  <img src="./images/ScreenShot_2026-04-30_083611_469.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-02_182112_409.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-02_182143_378.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-02_182148_894.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-02_182222_626.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_035910_143.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_035920_252.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_035933_031.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_035952_143.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_040115_846.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_040232_725.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_040313_727.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_040347_805.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_040657_178.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041027_074.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041039_159.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041050_105.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041056_052.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041240_779.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041250_954.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041256_923.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041313_384.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041329_274.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041335_561.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041707_479.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041717_966.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041723_482.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041734_938.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041741_073.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041748_667.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041754_117.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041802_549.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041814_055.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041824_138.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041844_741.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041906_417.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041916_166.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041922_396.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041929_783.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_041944_063.png" width="800" alt="screenshot" />
-  <img src="./images/ScreenShot_2026-05-21_042010_017.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044159_574.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044222_006.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044240_982.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044251_496.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044302_437.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044311_021.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044319_062.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044347_983.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044400_652.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044453_093.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044501_959.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044515_862.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044526_520.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044536_042.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_044542_741.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_102824_269.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_103001_143.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_103137_089.png" width="800" alt="screenshot" />
+  <img src="./images/ScreenShot_2026-06-06_103210_254.png" width="800" alt="screenshot" />
 </details>
 
 ---
